@@ -1,3 +1,2 @@
-# zomato
-
+#  Zomato clone
 
